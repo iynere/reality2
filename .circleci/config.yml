@@ -1,5 +1,5 @@
 version: 2
-# x
+
 workflows:
   version: 2
   resource_class_jobs:
